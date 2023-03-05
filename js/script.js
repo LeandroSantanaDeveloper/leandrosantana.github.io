@@ -1,1 +1,1 @@
-//alert('Page under construction ;)');
+alert('Page under construction ;)');
